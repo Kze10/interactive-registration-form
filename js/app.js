@@ -13,7 +13,7 @@ const emailInput = document.querySelector('#mail');
 const emailLabel = emailInput.previousElementSibling;
 const emailValidation = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
 
-// Name Section  =============================================
+// Other Job Input  ==========================================
 const selectJob = document.querySelector('#title');
 const otherOption = selectJob.lastElementChild;
 const inputOtherJob = document.querySelector('#other-title');
